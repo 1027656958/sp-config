@@ -6,7 +6,7 @@ eureka:
 spring:
   application:
     name: order-service
-    cloud:
+  cloud:
     config:
       override-none: true
     
